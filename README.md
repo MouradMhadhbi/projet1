@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# 🌟 Mon Premier Projet React avec Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📖 Description
 
-## Available Scripts
+Ce projet est une **première application React** utilisant **React-Bootstrap** pour créer une interface moderne et responsive.
 
-In the project directory, you can run:
+L’objectif est de se familiariser avec :
 
-### `npm start`
+- La création de composants React.
+- L’utilisation de React-Bootstrap pour le design.
+- La structure de base d’un projet React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧰 Technologies utilisées
 
-### `npm test`
+- ⚛️ **React** — Librairie JavaScript pour construire des interfaces utilisateur.
+- 💅 **React-Bootstrap** — Composants Bootstrap adaptés à React.
+- 🎨 **Bootstrap 5** — Framework CSS pour un design responsive.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Installation et exécution
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1️⃣ Cloner le projet
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/MouradMhadhbi/projet1.git
+cd projet1
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2️⃣ Installer les dépendances
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3️⃣ Lancer le projet
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Le projet se lancera automatiquement dans votre navigateur à l’adresse :
+👉 http://localhost:3000
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📁 Structure du projet
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    mon-projet-react/
+    ├── node_modules/
+    ├── public/
+    ├── src/
+    │   ├── App.js          # Composant principal avec Navbar, Header et Cartes
+    │   ├── index.js        # Point d'entrée principal de l'application
+    │   └── reportWebVitals.js
+    ├── package.json
+    └── README.md
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🧩 Fonctionnalités
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Une barre de navigation moderne et responsive.
 
-### Analyzing the Bundle Size
+- Trois cartes illustrées avec images et boutons interactifs.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Une mise en page fluide grâce à Row et Col.
 
-### Making a Progressive Web App
+- Un footer dynamique.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🧩 Fonctionnalités
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Une barre de navigation moderne et responsive.
 
-### Deployment
+- Trois cartes illustrées avec images et boutons interactifs.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Une mise en page fluide grâce à Row et Col.
 
-### `npm run build` fails to minify
+- Un footer dynamique.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## ✨ Auteur
+
+👨‍💻 Mourad Mhadhbi
+Étudiant en Master Cybersécurité Opérationnelle | Passionné de développement web.
+📅 Année : 2025
